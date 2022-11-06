@@ -1,6 +1,6 @@
 # SimpleCalc
 
-This is simple calc, which has following options:
+This is simple calculator in C++ language, which has following options:
 
 Sum, Difference, Product and Quotient.
 
